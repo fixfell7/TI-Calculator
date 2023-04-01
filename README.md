@@ -11,5 +11,5 @@ Please open your calculator to check if you have the same testpad patern. Some e
 
 ### Image
 
-![pad image](image/pads.jpg)
-![diagram image](image/Diagram.png)
+![diagram image](Diagram.png)
+![pad image](pads.jpg)
